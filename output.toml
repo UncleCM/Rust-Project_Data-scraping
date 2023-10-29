@@ -1,0 +1,1676 @@
+table_data = [
+    [
+    """
+Company orbrand name
+""",
+    """
+Parent company
+""",
+    """
+Headquarters
+""",
+    """
+Countries served
+""",
+    """
+Number of locations
+""",
+],
+    [
+    """
+7-Eleven
+""",
+    """
+Seven & I Holdings
+""",
+    """
+ Japan
+""",
+    """
+Japan, United States, Australia, Cambodia, Canada, China (Hong Kong and Macau), Denmark, India, Malaysia, Mexico, Norway, Philippines, Singapore, South Korea, Sweden, Taiwan, Thailand, United Arab Emirates, Vietnam
+""",
+    """
+78,541[1]
+""",
+],
+    [
+    """
+FamilyMart
+""",
+    """
+Itochu
+""",
+    """
+ Japan
+""",
+    """
+Japan, Bangladesh, China, Philippines, Indonesia, Taiwan, Thailand, United States, Vietnam, Malaysia (2016)
+""",
+    """
+24,243[2]
+""",
+],
+    [
+    """
+OXXO
+""",
+    """
+FEMSA
+""",
+    """
+ Mexico
+""",
+    """
+Mexico, Brazil, Colombia, Chile, Peru, United States
+""",
+    """
+21,706[3]
+""",
+],
+    [
+    """
+Lawson
+""",
+    """
+Mitsubishi Corporation
+""",
+    """
+ Japan
+""",
+    """
+Japan, China, Indonesia, Philippines, Thailand, United States
+""",
+    """
+20,833[4]
+""",
+],
+    [
+    """
+Circle K
+""",
+    """
+Alimentation Couche-Tard
+""",
+    """
+ Canada
+""",
+    """
+Canada, United States, Cambodia, China (Hong Kong and Macau), Denmark, Norway, Guam, Honduras, Indonesia, Japan, Malaysia, Mexico, Philippines, Sweden, United Arab Emirates, Vietnam, Egypt, Estonia, Ireland, Poland
+""",
+    """
+14,471[5]
+""",
+],
+    [
+    """
+Carrefour City
+""",
+    """
+Carrefour
+""",
+    """
+ France
+""",
+    """
+France, Italy, Greece, Belgium, Spain, Poland, Pakistan, Brazil, Colombia, Dominican Republic
+""",
+    """
+8,954[6]
+""",
+],
+    [
+    """
+Tesco Express
+""",
+    """
+Tesco
+""",
+    """
+ United Kingdom
+""",
+    """
+United Kingdom, China, Czech Republic, Hungary, Ireland, Malaysia, Poland, Slovakia, Thailand, Turkey, United States (formerly)
+""",
+    """
+6,784
+""",
+],
+    [
+    """
+CBA
+""",
+    """
+CBA
+""",
+    """
+ Hungary
+""",
+    """
+Bulgaria, Italy, Lithuania, Greece, Czech Republic, Croatia, Hungary, Montenegro, Romania, Serbia, Slovakia
+""",
+    """
+5,200
+""",
+],
+    [
+    """
+Ministop
+""",
+    """
+Æon Group
+""",
+    """
+ Japan
+""",
+    """
+Japan, Philippines, South Korea, Vietnam
+""",
+    """
+5,177[7]
+""",
+],
+    [
+    """
+SPAR Express
+""",
+    """
+SPAR
+""",
+    """
+ Netherlands France
+""",
+    """
+Netherlands, France, Australia, Austria, Belgium, China, Germany, Ireland, Russia, South Africa (branded as KWIKSPAR), Slovenia, Switzerland, Thailand, Ukraine, United Kingdom, Zimbabwe
+""",
+    """
+3,600[8]
+""",
+],
+    ["vteConvenience stores"],
+    [
+    """
+vteMajor convenience stores in AfricaEastern
+National Oil
+Western
+Tangerina
+Northern
+Mini-Brahim
+On the Run
+Southern
+Circle K
+Pick n Pay Express
+Quick Shop
+Sasol Delight
+Shell Select
+Spar
+Spar Express
+Woolworths Foodstop
+""",
+    "vteMajor convenience stores in Africa",
+    "Eastern",
+    """
+
+National Oil
+""",
+    "Western",
+    """
+
+Tangerina
+""",
+    "Northern",
+    """
+
+Mini-Brahim
+On the Run
+""",
+    "Southern",
+    """
+
+Circle K
+Pick n Pay Express
+Quick Shop
+Sasol Delight
+Shell Select
+Spar
+Spar Express
+Woolworths Foodstop
+""",
+],
+    ["vteMajor convenience stores in Africa"],
+    [
+    "Eastern",
+    """
+
+National Oil
+""",
+],
+    [
+    "Western",
+    """
+
+Tangerina
+""",
+],
+    [
+    "Northern",
+    """
+
+Mini-Brahim
+On the Run
+""",
+],
+    [
+    "Southern",
+    """
+
+Circle K
+Pick n Pay Express
+Quick Shop
+Sasol Delight
+Shell Select
+Spar
+Spar Express
+Woolworths Foodstop
+""",
+],
+    [
+    """
+vteMajor convenience stores in AsiaEastern
+759 Store
+7-Eleven
+apollostation
+Big C
+Circle K
+Cosmo Station
+CU
+Daily Yamazaki
+Dr.Drive
+emart24
+FamilyMart
+GS25
+Hi-Life
+Lawson
+Ministop
+OK Mart
+ParknShop
+Poplar
+Relay
+Spar
+Star Mart
+Storyway
+VanGO
+WHSmith
+South-eastern
+108 Shop
+7-Eleven
+All Day
+Alfamart
+B's mart
+Big C
+Bright
+Ceriamart
+Choices
+Co.op Food
+Cheers
+Circle K
+CU
+emart24
+FairPrice Xpress
+Fresh Mart
+Grab & Go
+GS25
+Jiffy
+Lawson
+Lawson 108
+FamilyMart
+Indomaret
+KK Super Mart
+Lotus's
+Ministop
+myNEWS
+Orange
+Mesra
+Shell Select
+Shop&Go
+Spar
+Star Mart
+Tops Daily
+Treats
+Uncle John's
+VanGO
+VinMart
+WHSmith
+Yomart
+Southern
+7-Eleven
+Big Bazaar
+Reliance Fresh
+Spar
+Spencer's
+Swagat
+WHSmith
+Western
+7-Eleven
+Aramco
+Buy the Way
+Circle K
+Relay
+Spar
+Star Mart
+WHSmith
+Zoom
+Former
+ampm
+BP Connect
+Circle K Sunkus
+Daily Stop
+On the Run
+Tesco Express
+""",
+    "vteMajor convenience stores in Asia",
+    "Eastern",
+    """
+
+759 Store
+7-Eleven
+apollostation
+Big C
+Circle K
+Cosmo Station
+CU
+Daily Yamazaki
+Dr.Drive
+emart24
+FamilyMart
+GS25
+Hi-Life
+Lawson
+Ministop
+OK Mart
+ParknShop
+Poplar
+Relay
+Spar
+Star Mart
+Storyway
+VanGO
+WHSmith
+""",
+    "South-eastern",
+    """
+
+108 Shop
+7-Eleven
+All Day
+Alfamart
+B's mart
+Big C
+Bright
+Ceriamart
+Choices
+Co.op Food
+Cheers
+Circle K
+CU
+emart24
+FairPrice Xpress
+Fresh Mart
+Grab & Go
+GS25
+Jiffy
+Lawson
+Lawson 108
+FamilyMart
+Indomaret
+KK Super Mart
+Lotus's
+Ministop
+myNEWS
+Orange
+Mesra
+Shell Select
+Shop&Go
+Spar
+Star Mart
+Tops Daily
+Treats
+Uncle John's
+VanGO
+VinMart
+WHSmith
+Yomart
+""",
+    "Southern",
+    """
+
+7-Eleven
+Big Bazaar
+Reliance Fresh
+Spar
+Spencer's
+Swagat
+WHSmith
+""",
+    "Western",
+    """
+
+7-Eleven
+Aramco
+Buy the Way
+Circle K
+Relay
+Spar
+Star Mart
+WHSmith
+Zoom
+""",
+    "Former",
+    """
+
+ampm
+BP Connect
+Circle K Sunkus
+Daily Stop
+On the Run
+Tesco Express
+""",
+],
+    ["vteMajor convenience stores in Asia"],
+    [
+    "Eastern",
+    """
+
+759 Store
+7-Eleven
+apollostation
+Big C
+Circle K
+Cosmo Station
+CU
+Daily Yamazaki
+Dr.Drive
+emart24
+FamilyMart
+GS25
+Hi-Life
+Lawson
+Ministop
+OK Mart
+ParknShop
+Poplar
+Relay
+Spar
+Star Mart
+Storyway
+VanGO
+WHSmith
+""",
+],
+    [
+    "South-eastern",
+    """
+
+108 Shop
+7-Eleven
+All Day
+Alfamart
+B's mart
+Big C
+Bright
+Ceriamart
+Choices
+Co.op Food
+Cheers
+Circle K
+CU
+emart24
+FairPrice Xpress
+Fresh Mart
+Grab & Go
+GS25
+Jiffy
+Lawson
+Lawson 108
+FamilyMart
+Indomaret
+KK Super Mart
+Lotus's
+Ministop
+myNEWS
+Orange
+Mesra
+Shell Select
+Shop&Go
+Spar
+Star Mart
+Tops Daily
+Treats
+Uncle John's
+VanGO
+VinMart
+WHSmith
+Yomart
+""",
+],
+    [
+    "Southern",
+    """
+
+7-Eleven
+Big Bazaar
+Reliance Fresh
+Spar
+Spencer's
+Swagat
+WHSmith
+""",
+],
+    [
+    "Western",
+    """
+
+7-Eleven
+Aramco
+Buy the Way
+Circle K
+Relay
+Spar
+Star Mart
+WHSmith
+Zoom
+""",
+],
+    [
+    "Former",
+    """
+
+ampm
+BP Connect
+Circle K Sunkus
+Daily Stop
+On the Run
+Tesco Express
+""",
+],
+    [
+    """
+vteMajor convenience stores in EuropeNorthern
+10-11
+7-Eleven
+Alepa
+Amazon Fresh
+BackWerk
+Bargain Booze
+Best-One
+BP Connect
+Budgens
+Centra
+Circle K
+Co-op Food
+Costcutter
+Deli de Luca
+Direkten
+Ditsch
+EG Group
+Extra
+Happy Shopper
+ICA Nära
+Jones Convenience Stores
+Kjörbúðin
+Krambúðin
+Kwik Save
+Londis (Ireland)
+Londis (United Kingdom)
+M-Market
+Mace
+McColl's
+MyWay
+Narvesen
+Neste K
+Nisa
+On the Run
+One Stop
+Pressbyrån
+R-kioski
+REWE To Go
+Sainsbury's Local
+Sale
+Scotmid
+Spar
+Tesco Express
+Time Out
+little Waitrose
+WHSmith
+Southern
+CiaoAgip
+Eni Shop
+Minipreço Express
+On the Run
+Repsol Sprint
+Slipop
+Spar
+Supercor Exprés
+Tangerina
+Eastern
+Aibė
+Billa
+Carrefour Express
+CBA
+Chorten
+Dixy
+Eurocash
+Freshmarket
+Groszek
+Lietuvos Spauda
+Livio
+Magnit
+miniM
+Nah & Frisch
+Narvesen
+Odido
+PKN Orlen
+Ruch
+O! Shop
+Orlen w ruchu
+Polomarket
+Pyaterochka
+R-kiosk
+Rosa
+Shop & Go
+Spar
+Społem
+Tesco Express
+Tisak
+TOPS!
+UNIBox
+Viva
+Żabka
+Western
+AH To Go
+avec.
+Carrefour City
+Chez Jean
+Coop Pronto
+Dufry
+Daily Monop'
+Franprix
+k kiosk
+Kiosk
+Marché Plus
+Migrolino
+Monop'
+On the Run
+Petit Casino
+Proxy Delhaize
+Relay
+Spar
+U Express
+Wizzl
+Former
+David Sands
+Jacksons Stores
+Local Plus
+Małpka Express
+Mills
+Morrisons M Local
+Opencor
+Piotr i Paweł
+Siwa
+Somerfield
+Ugo
+""",
+    "vteMajor convenience stores in Europe",
+    "Northern",
+    """
+
+10-11
+7-Eleven
+Alepa
+Amazon Fresh
+BackWerk
+Bargain Booze
+Best-One
+BP Connect
+Budgens
+Centra
+Circle K
+Co-op Food
+Costcutter
+Deli de Luca
+Direkten
+Ditsch
+EG Group
+Extra
+Happy Shopper
+ICA Nära
+Jones Convenience Stores
+Kjörbúðin
+Krambúðin
+Kwik Save
+Londis (Ireland)
+Londis (United Kingdom)
+M-Market
+Mace
+McColl's
+MyWay
+Narvesen
+Neste K
+Nisa
+On the Run
+One Stop
+Pressbyrån
+R-kioski
+REWE To Go
+Sainsbury's Local
+Sale
+Scotmid
+Spar
+Tesco Express
+Time Out
+little Waitrose
+WHSmith
+""",
+    "Southern",
+    """
+
+CiaoAgip
+Eni Shop
+Minipreço Express
+On the Run
+Repsol Sprint
+Slipop
+Spar
+Supercor Exprés
+Tangerina
+""",
+    "Eastern",
+    """
+
+Aibė
+Billa
+Carrefour Express
+CBA
+Chorten
+Dixy
+Eurocash
+Freshmarket
+Groszek
+Lietuvos Spauda
+Livio
+Magnit
+miniM
+Nah & Frisch
+Narvesen
+Odido
+PKN Orlen
+Ruch
+O! Shop
+Orlen w ruchu
+Polomarket
+Pyaterochka
+R-kiosk
+Rosa
+Shop & Go
+Spar
+Społem
+Tesco Express
+Tisak
+TOPS!
+UNIBox
+Viva
+Żabka
+""",
+    "Western",
+    """
+
+AH To Go
+avec.
+Carrefour City
+Chez Jean
+Coop Pronto
+Dufry
+Daily Monop'
+Franprix
+k kiosk
+Kiosk
+Marché Plus
+Migrolino
+Monop'
+On the Run
+Petit Casino
+Proxy Delhaize
+Relay
+Spar
+U Express
+Wizzl
+""",
+    "Former",
+    """
+
+David Sands
+Jacksons Stores
+Local Plus
+Małpka Express
+Mills
+Morrisons M Local
+Opencor
+Piotr i Paweł
+Siwa
+Somerfield
+Ugo
+""",
+],
+    ["vteMajor convenience stores in Europe"],
+    [
+    "Northern",
+    """
+
+10-11
+7-Eleven
+Alepa
+Amazon Fresh
+BackWerk
+Bargain Booze
+Best-One
+BP Connect
+Budgens
+Centra
+Circle K
+Co-op Food
+Costcutter
+Deli de Luca
+Direkten
+Ditsch
+EG Group
+Extra
+Happy Shopper
+ICA Nära
+Jones Convenience Stores
+Kjörbúðin
+Krambúðin
+Kwik Save
+Londis (Ireland)
+Londis (United Kingdom)
+M-Market
+Mace
+McColl's
+MyWay
+Narvesen
+Neste K
+Nisa
+On the Run
+One Stop
+Pressbyrån
+R-kioski
+REWE To Go
+Sainsbury's Local
+Sale
+Scotmid
+Spar
+Tesco Express
+Time Out
+little Waitrose
+WHSmith
+""",
+],
+    [
+    "Southern",
+    """
+
+CiaoAgip
+Eni Shop
+Minipreço Express
+On the Run
+Repsol Sprint
+Slipop
+Spar
+Supercor Exprés
+Tangerina
+""",
+],
+    [
+    "Eastern",
+    """
+
+Aibė
+Billa
+Carrefour Express
+CBA
+Chorten
+Dixy
+Eurocash
+Freshmarket
+Groszek
+Lietuvos Spauda
+Livio
+Magnit
+miniM
+Nah & Frisch
+Narvesen
+Odido
+PKN Orlen
+Ruch
+O! Shop
+Orlen w ruchu
+Polomarket
+Pyaterochka
+R-kiosk
+Rosa
+Shop & Go
+Spar
+Społem
+Tesco Express
+Tisak
+TOPS!
+UNIBox
+Viva
+Żabka
+""",
+],
+    [
+    "Western",
+    """
+
+AH To Go
+avec.
+Carrefour City
+Chez Jean
+Coop Pronto
+Dufry
+Daily Monop'
+Franprix
+k kiosk
+Kiosk
+Marché Plus
+Migrolino
+Monop'
+On the Run
+Petit Casino
+Proxy Delhaize
+Relay
+Spar
+U Express
+Wizzl
+""",
+],
+    [
+    "Former",
+    """
+
+David Sands
+Jacksons Stores
+Local Plus
+Małpka Express
+Mills
+Morrisons M Local
+Opencor
+Piotr i Paweł
+Siwa
+Somerfield
+Ugo
+""",
+],
+    [
+    """
+vteMajor convenience stores in North AmericaCanada
+7-Eleven
+Alimentation Couche-Tard
+Becker's
+Circle K
+Couche-Tard / Dépanneur 7 jours / Provi-Soir
+Dépanexpress / Dépanneur du coin
+Hudson News
+Irving
+Needs
+Neighbours
+On the Run
+Pioneer
+Quickie
+Shell Select
+WHSmith
+Honduras
+Circle K
+Mexico
+7-Eleven
+Circle K
+Kiosko
+OXXO
+Super City
+Tiendas Extra
+UnitedStates
+7-Eleven / Speedway / Stripes
+A-Plus
+ABC
+Alimentation Couche-Tard
+Circle K
+Holiday
+Allsup's
+Amazon Go
+ampm
+Buc-ee's
+Byrne Dairy
+Casey's
+Cenex
+Chevron
+Convenient
+Dairy Barn
+Dari Mart
+EG Group
+Cumberland Farms
+Kwik Shop
+Loaf 'N Jug
+Minit Mart
+Quik Stop
+Smith's Express
+Tom Thumb
+Turkey Hill Minit Markets
+Exxon / Mobil Mart / On the Run
+GetGo
+Global
+GPM Investments
+Village Pantry
+Go-Mart
+High's Dairy Store
+Hudson News
+Jr. Food Mart
+Jr. Food Stores
+Kroger Convenience Stores
+Kum & Go
+Kwik Fill / Red Apple / Country Fair
+Kwik Trip / Kwik Star
+Lawson
+Love's
+MAPCO Express
+Murphy USA
+QuickChek
+On the Go
+Pilot Flying J
+Plaid Pantry
+Quality Dairy Company
+QuikTrip
+RaceTrac / RaceWay
+Road Ranger
+Roady's Truck Stops
+Royal Farms
+Rutter's
+Sheetz
+Shell Select
+Stewart's Shops
+Stuckey's
+Thorntons Inc.
+Tom's
+Town Pump
+TravelCenters of America
+United Dairy Farmers
+USA Gasoline
+Wawa
+Weigel's
+WHSmith
+Former
+BP Connect
+CST
+Getty
+Mac's
+Town & Country
+PDQ Food Stores
+Tedeschi
+Tesoro
+Giant
+SuperAmerica
+Uni-Mart
+UtoteM
+White Hen
+Wilco
+""",
+    "vteMajor convenience stores in North America",
+    "Canada",
+    """
+
+7-Eleven
+Alimentation Couche-Tard
+Becker's
+Circle K
+Couche-Tard / Dépanneur 7 jours / Provi-Soir
+Dépanexpress / Dépanneur du coin
+Hudson News
+Irving
+Needs
+Neighbours
+On the Run
+Pioneer
+Quickie
+Shell Select
+WHSmith
+""",
+    "Honduras",
+    """
+
+Circle K
+""",
+    "Mexico",
+    """
+
+7-Eleven
+Circle K
+Kiosko
+OXXO
+Super City
+Tiendas Extra
+""",
+    "UnitedStates",
+    """
+
+7-Eleven / Speedway / Stripes
+A-Plus
+ABC
+Alimentation Couche-Tard
+Circle K
+Holiday
+Allsup's
+Amazon Go
+ampm
+Buc-ee's
+Byrne Dairy
+Casey's
+Cenex
+Chevron
+Convenient
+Dairy Barn
+Dari Mart
+EG Group
+Cumberland Farms
+Kwik Shop
+Loaf 'N Jug
+Minit Mart
+Quik Stop
+Smith's Express
+Tom Thumb
+Turkey Hill Minit Markets
+Exxon / Mobil Mart / On the Run
+GetGo
+Global
+GPM Investments
+Village Pantry
+Go-Mart
+High's Dairy Store
+Hudson News
+Jr. Food Mart
+Jr. Food Stores
+Kroger Convenience Stores
+Kum & Go
+Kwik Fill / Red Apple / Country Fair
+Kwik Trip / Kwik Star
+Lawson
+Love's
+MAPCO Express
+Murphy USA
+QuickChek
+On the Go
+Pilot Flying J
+Plaid Pantry
+Quality Dairy Company
+QuikTrip
+RaceTrac / RaceWay
+Road Ranger
+Roady's Truck Stops
+Royal Farms
+Rutter's
+Sheetz
+Shell Select
+Stewart's Shops
+Stuckey's
+Thorntons Inc.
+Tom's
+Town Pump
+TravelCenters of America
+United Dairy Farmers
+USA Gasoline
+Wawa
+Weigel's
+WHSmith
+""",
+    "Former",
+    """
+
+BP Connect
+CST
+Getty
+Mac's
+Town & Country
+PDQ Food Stores
+Tedeschi
+Tesoro
+Giant
+SuperAmerica
+Uni-Mart
+UtoteM
+White Hen
+Wilco
+""",
+],
+    ["vteMajor convenience stores in North America"],
+    [
+    "Canada",
+    """
+
+7-Eleven
+Alimentation Couche-Tard
+Becker's
+Circle K
+Couche-Tard / Dépanneur 7 jours / Provi-Soir
+Dépanexpress / Dépanneur du coin
+Hudson News
+Irving
+Needs
+Neighbours
+On the Run
+Pioneer
+Quickie
+Shell Select
+WHSmith
+""",
+],
+    [
+    "Honduras",
+    """
+
+Circle K
+""",
+],
+    [
+    "Mexico",
+    """
+
+7-Eleven
+Circle K
+Kiosko
+OXXO
+Super City
+Tiendas Extra
+""",
+],
+    [
+    "UnitedStates",
+    """
+
+7-Eleven / Speedway / Stripes
+A-Plus
+ABC
+Alimentation Couche-Tard
+Circle K
+Holiday
+Allsup's
+Amazon Go
+ampm
+Buc-ee's
+Byrne Dairy
+Casey's
+Cenex
+Chevron
+Convenient
+Dairy Barn
+Dari Mart
+EG Group
+Cumberland Farms
+Kwik Shop
+Loaf 'N Jug
+Minit Mart
+Quik Stop
+Smith's Express
+Tom Thumb
+Turkey Hill Minit Markets
+Exxon / Mobil Mart / On the Run
+GetGo
+Global
+GPM Investments
+Village Pantry
+Go-Mart
+High's Dairy Store
+Hudson News
+Jr. Food Mart
+Jr. Food Stores
+Kroger Convenience Stores
+Kum & Go
+Kwik Fill / Red Apple / Country Fair
+Kwik Trip / Kwik Star
+Lawson
+Love's
+MAPCO Express
+Murphy USA
+QuickChek
+On the Go
+Pilot Flying J
+Plaid Pantry
+Quality Dairy Company
+QuikTrip
+RaceTrac / RaceWay
+Road Ranger
+Roady's Truck Stops
+Royal Farms
+Rutter's
+Sheetz
+Shell Select
+Stewart's Shops
+Stuckey's
+Thorntons Inc.
+Tom's
+Town Pump
+TravelCenters of America
+United Dairy Farmers
+USA Gasoline
+Wawa
+Weigel's
+WHSmith
+""",
+],
+    [
+    "Former",
+    """
+
+BP Connect
+CST
+Getty
+Mac's
+Town & Country
+PDQ Food Stores
+Tedeschi
+Tesoro
+Giant
+SuperAmerica
+Uni-Mart
+UtoteM
+White Hen
+Wilco
+""",
+],
+    [
+    """
+vteMajor convenience stores in OceaniaAustralia
+7-Eleven
+BP Connect
+Coles Express
+EG
+EzyMart
+Foodary
+IGA Xpress
+NewsLink
+NightOwl Convenience Stores
+OTR
+Spar Express
+WHSmith
+New Zealand
+BP Connect
+Circle K
+Night 'n Day
+Woolworths @ Gull
+""",
+    "vteMajor convenience stores in Oceania",
+    "Australia",
+    """
+
+7-Eleven
+BP Connect
+Coles Express
+EG
+EzyMart
+Foodary
+IGA Xpress
+NewsLink
+NightOwl Convenience Stores
+OTR
+Spar Express
+WHSmith
+""",
+    "New Zealand",
+    """
+
+BP Connect
+Circle K
+Night 'n Day
+Woolworths @ Gull
+""",
+],
+    ["vteMajor convenience stores in Oceania"],
+    [
+    "Australia",
+    """
+
+7-Eleven
+BP Connect
+Coles Express
+EG
+EzyMart
+Foodary
+IGA Xpress
+NewsLink
+NightOwl Convenience Stores
+OTR
+Spar Express
+WHSmith
+""",
+],
+    [
+    "New Zealand",
+    """
+
+BP Connect
+Circle K
+Night 'n Day
+Woolworths @ Gull
+""",
+],
+    ["""
+
+List of convenience stores
+"""],
+    ["vteCompanies by industry"],
+    [
+    "Apparel",
+    """
+
+Fitness wear
+Lingerie
+Socks
+Sporting goods
+Swimwear
+""",
+],
+    [
+    "Energy",
+    """
+
+Chemical
+Oil and gas
+Oil exploration and production
+Oilfield service
+Public utilities
+Solar thermal power
+""",
+],
+    [
+    "Finance",
+    """
+
+Asset management
+Banks
+international
+investment
+Hedge funds
+Private equity
+Stock exchanges
+Venture capital
+""",
+],
+    [
+    "Food and beverages",
+    """
+
+Beer and breweries
+Casual dining
+Champagne houses
+Cheesemakers
+Chocolate
+Coffee
+Coffeehouses
+Fast food
+Food
+Ice cream parlors
+Pizza
+Restaurant chains
+Revolving
+Soft drinks
+Tea
+Vineyards and wineries
+""",
+],
+    [
+    "Healthcare",
+    """
+
+Biotechnology
+Health club
+Pharmaceutical
+""",
+],
+    [
+    "Manufacturing",
+    """
+
+Aerial lift
+Aircraft
+Astronomical instruments
+Automobile
+Bicycles
+CIGS
+Cymbals
+Dump trucks
+Horns
+Locomotive
+Microphone
+Modern armament
+Motorcycles
+Radio-controlled model aircraft kits
+Rolling stock
+Scooters
+Semiconductor
+IP core
+Solid-state drives
+Steel
+Stuffed toys
+Touch input
+Traction motors
+Tractors
+Tram
+Wind turbines
+""",
+],
+    [
+    "Media and entertainment",
+    """
+
+Animation
+anime
+Cable television
+Children's book publishers
+Film production
+Pornography
+Record labels
+Satellite television
+Television networks
+Video games
+""",
+],
+    [
+    "Retail",
+    """
+
+Book clubs
+Bookstores
+chains
+independent
+feminist
+Convenience
+Cooperatives
+Department
+Games
+Hypermarkets
+Pharmacies
+Supermarkets
+Superstores
+""",
+],
+    [
+    "Services",
+    """
+
+Casinos
+Construction equipment rental
+Hotels
+Law firms
+Management consulting
+Marketing research
+""",
+],
+    [
+    "Sports",
+    """
+
+Cycling
+Disc golf
+Golf
+Mountaineering
+Skateboarding
+Skiing
+Swimming
+""",
+],
+    [
+    "Technology",
+    """
+
+Advertising technology
+Automation integrator
+Computer-aided design
+Computer hardware
+Computer systems
+laptops
+Consumer electronics
+Electric-vehicle batteries
+Electronic design automation
+Flash memory controllers
+Photovoltaics
+Semiconductors
+Silicon
+Telecommunications
+VoIP
+""",
+],
+    [
+    "Transportation",
+    """
+
+Airlines
+charter
+defunct
+holding
+low-cost
+passenger
+regional
+Bus
+Cruise lines
+Ferry
+Railway
+Ship
+automobile
+freight
+passenger
+""",
+],
+    [
+    "Miscellaneous",
+    """
+
+Lists of companies
+""",
+],
+]
